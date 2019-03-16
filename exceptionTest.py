@@ -1,3 +1,4 @@
+#zero division exteption test
 def func1(a,b):
     return a/b
 
